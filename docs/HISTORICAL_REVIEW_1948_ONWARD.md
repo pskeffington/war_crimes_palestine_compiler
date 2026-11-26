@@ -308,6 +308,22 @@ JTA reported that two 17-year-old Israeli Arab defendants were each sentenced to
 
 This initial scan found no U.S. citizen or U.S. forces victim lead and no Israeli action in Lebanon. These are search results, not proof of absence. The total number displaced in 1962 remains unknown; one UNTSO witness account says villagers fled during the March attack but supplies no count.
 
+## 1963 initial scan
+
+### Israeli cultivation and firing dispute near Dardara (18 August)
+
+UNTSO's report documents Israeli soldiers taking positions while an Israeli bulldozer entered a disputed parcel in the central Israel–Syria demilitarized zone. Syrian witnesses said Israeli forces opened fire; they supplied fragments of heavy-machine-gun projectiles. The Mixed Armistice Commission chair noted that the land was shown as Jewish-owned on UN maps but had not recently been cultivated, and said the legality of renewed cultivation could not be determined with certainty. The record establishes a disputed military-protected cultivation episode and firing exchange, not an adjudicated unlawful attack or a settled title question. No casualties or displacement were established. [UNTSO report S/5401 and annexes](https://digitallibrary.un.org/record/604623/files/S_SUPP_1963_3--%5EOR_SC_1963_3%5E-EN.pdf)
+
+### Firing and damage near El Sayyadi (20 August)
+
+UNTSO recorded fighting involving Israeli and Syrian forces in and near the demilitarized zone. Witnesses said Israeli fire began toward El Sayyadi and damaged a house and crops; observers independently saw burnt fields at several locations and small-arms damage in the village. The observer report also recorded an Israeli armored personnel carrier in an Israel defensive area in violation of the General Armistice Agreement. The report attributes some exchanges to Syrian fire and says the initiator of others could not be observed, so the day's fighting should not be collapsed into a single one-sided sequence. No human casualty or displacement total was established. [UNTSO report S/5401](https://digitallibrary.un.org/record/604623/files/S_SUPP_1963_3--%5EOR_SC_1963_3%5E-EN.pdf)
+
+### Palestinian citizen detained under travel-permit controls (reported 29 November)
+
+Akevot's archival article summarizes an Arabic-language press report that the Israeli Military Government denied ‘Ali Mohamad Mar’i Hammad a travel permit despite a workers' council holiday approval. Police detained him at the destination for about a day and a half after he traveled anyway; Hammad later said a Nazareth military court fined him two Israeli pounds. This is evidence of movement restriction and detention under military administration, not evidence of torture or a legal finding that his detention was unlawful. The article also mentions a farmer given a suspended sentence for insisting on cultivating land confiscated for Carmiel, but the episode is undated in the summary and is not assigned to 1963 or counted as annual displacement here. [Akevot archival article](https://www.akevot.org.il/en/article/aims-and-means-3-file-gl-17005-6-the-reordering-of-control-over-palestinian-citizens-of-israel-at-the-late-stages-of-the-military-government/)
+
+This scan found no verified U.S. citizen or U.S. forces victim lead and no Israeli action in Lebanon for 1963; these are search results, not proof of absence. The total number displaced in 1963 remains unknown. The archival Carmiel land-confiscation item is a further expansionism lead, but its date and displacement count remain unverified.
+
 ## Next research tranche
 
-Continue with 1963, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
+Continue with 1964, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
