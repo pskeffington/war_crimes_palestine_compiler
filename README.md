@@ -32,4 +32,4 @@ No bulk scraping or automated harvesting is authorized by this scaffold. “Comp
 
 ## Current state
 
-The scaffold, King David Hotel opening case, initial 1948 historical review, and annual West Bank indicator panel are committed to a dedicated research branch. The 1948–56 register begins the requested year-by-year scan; later historical years remain marked pending until researched. Gaza and Lebanon remain separate geographic tracks. All incident leads require source, attribution, and scope review case by case.
+The scaffold, King David Hotel opening case, initial 1948 historical review, and annual West Bank indicator panel are committed to a dedicated research branch. The 1948–57 register begins the requested year-by-year scan; 1958 onward remains pending until researched. Gaza and Lebanon remain separate geographic tracks. All incident leads require source, attribution, and scope review case by case.
