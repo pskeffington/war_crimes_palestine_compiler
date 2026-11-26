@@ -87,6 +87,26 @@ The UNTSO Chief of Staff's report S/2048 lists Jordanian complaints that Israeli
 
 The Jordan-Israel Mixed Armistice Commission found that shelling of Idna by Israeli forces constituted a technical violation of the General Armistice Agreement and condemned it. The decision also said the violation resulted from lesser contraventions by Jordanian residents and ordered the demarcation line to be marked clearly. The quoted finding gives no casualty number and is an armistice decision, not a criminal judgment. [UN report of the Mixed Armistice Commissions](https://digitallibrary.un.org/record/605779/files/S_SUPP_1951_4--%5EOR_SC_1951_4%5E-EN.pdf).
 
+## 1952 initial scan
+
+### Beit Jala-area armed raid (6–7 January)
+
+The UNTSO Chief of Staff reported Jordan's account that a group of armed Israelis entered Jordan-controlled territory and blew up houses on the outskirts of Beit Jala, killing six people and seriously wounding three. Leaflets linked the attack to an unsolved killing in Israel. The Mixed Armistice Commission unanimously found a serious breach of Article III(2), expressed horror, and called on Israel's delegation to prevent recurrence. The report does not identify the attackers as an IDF unit or establish their chain of command. A Palestinian historical archive repeats the UN tally and places the incident in its history of violence against Palestinians; it is not independent casualty verification. [UNTSO report S/2833](https://unispal.un.org/pdfs/S2833.pdf); [Our Palestine retrospective](https://pal48.ps/en/article/72/bethlehem-massacre).
+
+### Qaffin-area house bombing (May; Commission consideration 28 May)
+
+The same report records a Jordanian complaint about a house blown up near Qaffin, with a woman and four children aged one to fifteen killed. The Commission considered it a breach of Article IV(3); the Jordanian delegation and chair voted in favour, while the Israeli delegate abstained. The report notes leaflets and penetration about five kilometres into Jordan-controlled territory but does not establish the perpetrators' military or state affiliation. The exact incident date is not supplied. [UNTSO report S/2833](https://unispal.un.org/pdfs/S2833.pdf).
+
+### Es Sani Bedouin forced transfer and temporary displacement (September)
+
+On 21 September, Jordan complained that approximately 800 Es Sani Bedouins had been expelled from the Beersheba area into Jordan-controlled territory. The UN investigation indicated that the group had crossed to escape a forced transfer to less desirable land elsewhere inside Israel-controlled territory. A negotiated arrangement returned those who crossed to Israel. This is a documented coercive-transfer episode affecting about 800 people, but the report does not establish a permanent expulsion of all 800 or an annual net displacement total. It does not name the individual officials who ordered the proposed transfer. [UNTSO report S/2833](https://unispal.un.org/pdfs/S2833.pdf).
+
+### Wadi Ara / Kafr Ara shooting (June; date disputed)
+
+Later archival studies report that Israeli soldiers shot civilians gathering near the armistice line to meet relatives across the border during Eid al-Fitr; two people were killed and five wounded. Adel Manna dates the shooting to 23 June and describes the visits as customary and permitted, with an internal committee later treating the deaths as an unpremeditated error. Zaki Shalom dates it to 25 June and records the IDF account alongside civilian and political objections. Until the cited committee minutes and contemporary press are checked, retain 23–25 June as a date conflict. The casualty count is documented in retrospective scholarship, not a non-Israeli contemporary news report. [Manna, *Nakba and Survival*](https://webfiles.ucpress.edu/oa/9780520389373_WEB.pdf); [Shalom, INSS](https://www.inss.org.il/strategic_assessment/the-debate-on-the-idf-open-fire-orders-1952/).
+
+No accessible non-Israeli contemporary newspaper report was located in this tranche. The UN armistice report is the strongest contemporaneous source for the first three cases. The only defensible 1952 displacement figure found so far is approximately 800 people affected by the Es Sani forced-transfer episode; it is not a total of people permanently displaced that year.
+
 ## Year-by-year coverage ledger
 
 | Year(s) | Status |
@@ -95,10 +115,11 @@ The Jordan-Israel Mixed Armistice Commission found that shelling of Idna by Isra
 | 1949 | Initial scan recorded; original ICRC reports, displacement totals, and additional press cases remain to verify. |
 | 1950 | Initial scan recorded for El Auja and Majdal; broader annual displacement total and other incidents remain unverified. |
 | 1951 | Initial scan records Wadi Ara displacement, UN-listed border-village allegations, and the Idna armistice finding; original press and victim totals remain to verify. |
-| 1952–2004 | Incident-level non-Israeli press and international-record scan pending. |
+| 1952 | Initial scan adds Beit Jala, Qaffin, Es Sani, and Wadi Ara/Kafr Ara; press, attribution and annual displacement checks remain open. |
+| 1953–2004 | Incident-level non-Israeli press and international-record scan pending. |
 | 2005–2025 | OCHA West Bank annual indicators available; not a substitute for incident-level historical news scanning. |
 | 2026 | Partial-year scan pending; keep reporting cutoff explicit. |
 
 ## Next research tranche
 
-Continue with 1952, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
+Continue with 1953, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
