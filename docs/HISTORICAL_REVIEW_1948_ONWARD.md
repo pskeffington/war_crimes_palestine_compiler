@@ -135,6 +135,14 @@ UNTSO reported that roughly half a battalion of Israel's regular army crossed in
 
 This is an initial scan, not an exhaustive annual record. Contemporary non-Israeli newspaper archives and additional incident-level records remain to be checked; the UK Hansard record is a contemporaneous parliamentary source, not a newspaper.
 
+## 1954 initial scan
+
+### Nahalin night raid (28–29 March)
+
+Jordan reported that armed Israelis attacked Nahalin near Bethlehem shortly after midnight. UN observers examined damaged homes and the mosque, interviewed wounded people and witnesses, and followed footprints from the village toward the demarcation line and matching tracks on the Israeli side. The Mixed Armistice Commission adopted a resolution condemning Israel; its chair said the evidence established guilt without question. The UNTSO report records nine killed: five National Guards, one woman in the village, and three Arab Legionnaires killed when their reinforcement vehicle was destroyed. It records fourteen villagers wounded, plus an officer and four Legionnaires wounded. Jordan's initial complaint reported eighteen civilian wounded; a same-day JTA report gave preliminary figures of ten killed and sixteen wounded. Preserve those as separate early counts. No displacement figure was found in the reviewed records. [UNTSO report S/3251](https://digitallibrary.un.org/record/603129/files/S_3251-EN.pdf); [Jordan's complaint S/3192](https://digitallibrary.un.org/record/602666/files/S_3192-EN.pdf); [JTA, 30 March 1954](https://www.jta.org/archive/jordan-village-reported-attacked-by-israelis-ten-arabs-killed); [Our Palestine retrospective](https://pal48.ps/en/article/60/nahalin-massacre-1954-a-night-raid-on-a-west-bank-village).
+
+This is an initial incident scan, not a complete annual review. Additional contemporary press and records, settlement/land expansion, detention and displacement totals remain to be checked.
+
 ## Year-by-year coverage ledger
 
 | Year(s) | Status |
