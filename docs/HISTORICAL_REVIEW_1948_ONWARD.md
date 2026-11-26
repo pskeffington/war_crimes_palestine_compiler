@@ -93,6 +93,18 @@ The Jordan-Israel Mixed Armistice Commission found that shelling of Idna by Isra
 
 The UNTSO Chief of Staff reported Jordan's account that a group of armed Israelis entered Jordan-controlled territory and blew up houses on the outskirts of Beit Jala, killing six people and seriously wounding three. Leaflets linked the attack to an unsolved killing in Israel. The Mixed Armistice Commission unanimously found a serious breach of Article III(2), expressed horror, and called on Israel's delegation to prevent recurrence. The report does not identify the attackers as an IDF unit or establish their chain of command. A Palestinian historical archive repeats the UN tally and places the incident in its history of violence against Palestinians; it is not independent casualty verification. [UNTSO report S/2833](https://unispal.un.org/pdfs/S2833.pdf); [Our Palestine retrospective](https://pal48.ps/en/article/72/bethlehem-massacre).
 
+### Bedouin camp raid near El Berig (6 January)
+
+A separate Egyptian-Israeli Mixed Armistice Commission file documents an armed raid on a Bedouin camp near the Gaza demarcation line, close to El Berig. A UN military observer who visited on 7 January recorded seven deaths (three men, one woman, two boys and one girl), twelve wounded, eight tents destroyed or damaged, and a destroyed water pump and pump house. The initial Egyptian complaint gave a different wounded tally and described one woman dying later; the observer also recorded gunfire striking a nearby tuberculosis hospital. The observer attributed the crossing to armed Israelis, but did not identify a military unit or command order. No displacement count is supplied. [UN document S/3186](https://digitallibrary.un.org/record/602634/files/S_3186-EN.pdf).
+
+### Killing of the Salem brothers (30 March)
+
+The same UN file records an Egyptian complaint that armed Israelis detained a family working a field near the demarcation line, released the father and young daughter, and killed his two sons. A UN military observer investigated the same day and reported that six armed Israelis had crossed the line; tracks, bloodspots and spent cartridges supported the account. The observer described the brothers as shot at close range and noted bayonet wounds. The report identifies no unit or court finding. [UN document S/3186](https://digitallibrary.un.org/record/602634/files/S_3186-EN.pdf).
+
+### Killing of Hussein Gaber Ibrahim (12 April; attribution unresolved)
+
+An Egyptian complaint alleged that armed Israelis killed Ibrahim while he worked his field. A UN observer documented the body and scene and found Israeli-marked cartridge cases, but stated there were no eyewitnesses. Record this as an attribution lead rather than a confirmed Israeli-perpetrator finding. [UN document S/3186](https://digitallibrary.un.org/record/602634/files/S_3186-EN.pdf).
+
 ### Qaffin-area house bombing (May; Commission consideration 28 May)
 
 The same report records a Jordanian complaint about a house blown up near Qaffin, with a woman and four children aged one to fifteen killed. The Commission considered it a breach of Article IV(3); the Jordanian delegation and chair voted in favour, while the Israeli delegate abstained. The report notes leaflets and penetration about five kilometres into Jordan-controlled territory but does not establish the perpetrators' military or state affiliation. The exact incident date is not supplied. [UNTSO report S/2833](https://unispal.un.org/pdfs/S2833.pdf).
