@@ -27,6 +27,10 @@ Later non-Israeli reporting and research describe allegations that Alexandroni B
 
 The UN Mediator's [cable dated 12 September 1948](https://digitallibrary.un.org/record/471054/files/S_999-EN.pdf) reports an investigation by UN observers. It found that the three villages were attacked by air and land, residents were forced to evacuate, and Ein Ghazal and Jaba were systematically destroyed after evacuation. The Mediator told Israel's Provisional Government the action was unjustified and the destruction excessive, violating the spirit and letter of the truce. The same source says Arab figures for the dead and captured were greatly exaggerated and reports fewer than 130 killed or missing; a UN Yearbook summary says observers located more than 8,000 people, while the Mediator cable says more than 4,000. Preserve this source-version discrepancy. These are UN findings about truce violations, not a criminal court judgment.
 
+### Gaza bombing reported by Associated Press (16–19 October)
+
+A contemporaneous Associated Press dispatch republished by the Havre Daily News on 19 October says Israeli aircraft had bombed Gaza for a fourth consecutive day and that Palestinian Arab civilians were reported fleeing. The clipping says the extent of flight could not be determined and gives no casualty count. This supports a reported bombing and flight account; it does not establish displacement totals, targeting, or a war crime. [Archived clipping](https://coveringpalestine.org/archive/cp-1948-045).
+
 ### Civilian internment, POW/labor camps, and abuse (May–November)
 
 The ICRC visited Arab prisoners in Israel during 1948. Its [historical summary](https://www.icrc.org/en/document/150-years-humanitarian-action-protecting-prisoners-and-detainees) says it visited approximately 2,000 Arab POWs in Israel in June; that category is not limited to Palestinian civilians. Abu Sitta and Rempel's [Journal of Palestine Studies research](https://www.plands.org/getattachment/d3c2f9ce-20e1-4459-9dea-3d2c223d2396/the-icrc-and-the-detention-of-palestinian-civilians) analyzes ICRC archival reports and former prisoners' testimonies. It estimates around 5,000 Palestinian civilian internees across four official camps, reports their use as forced labor, and documents testimony of beatings, torture, deprivation, and deaths. The article also cites ICRC delegates' observations of wounds from abuse and beatings. Distinguish testimony from direct observation, and do not treat combined POW totals as a precise civilian-internment count.
@@ -41,15 +45,33 @@ The detention study cites Ben-Gurion's diary for approximately 100 men held capt
 
 For al-Dawayima, the current record contains an Arab Refugee Congress allegation preserved in a 1949 UN Conciliation Commission working paper and the Israeli government's November 1948 denial, which says civilians had left before the town was occupied. The available sources reviewed here do not independently settle the massacre allegation. It stays in the lead register and contributes no confirmed fatality count.
 
+## 1949 initial scan
+
+### Gaza aerial and artillery attacks (2–7 January)
+
+Abu Sitta and Rempel's peer-reviewed study reports six separate Israeli aerial and artillery attacks on Gaza city and the refugee camps at Khan Yunis, Bureij, Rafah, and Deir al-Balah, citing ICRC field reports. It gives a combined report of about 190 killed and more than 400 wounded across six days. The excerpt does not disaggregate civilian and combatant casualties or give an incident-by-incident table. The ICRC delegation head is quoted describing the attacks as lacking military objectives; treat this as the delegate's assessment in the archival source, not a court finding. Obtain the original ICRC report before treating the number as final. [Journal of Palestine Studies article](https://www.plands.org/getattachment/4b5dcb82-271b-47a4-91d5-472154638b0e/the-icrc-and-the-detention-of-palestinian-civilians).
+
+### Detention and continuing displacement
+
+The same study cites UN truce observers for the January capture of two named villagers near Tubas while they worked their land, and quotes ICRC mission head Jacques de Reynier's April 1949 report that Israeli authorities continued arresting able-bodied men and placing them in camps without due process. It also describes Operation Megrafa, running December 1948–July 1949, as an effort to prevent refugees from returning; specific cases and totals require separate source review. Do not infer a year total from this pattern. [Article and cited archival leads](https://www.plands.org/getattachment/4b5dcb82-271b-47a4-91d5-472154638b0e/the-icrc-and-the-detention-of-palestinian-civilians).
+
+A short U.S. newspaper report dated 8 April relays an expelled Rameh resident's account that 41 men, including 28 Christians, were deported by Israeli authorities. This is a single-witness report awaiting independent corroboration. [Archived clipping](https://coveringpalestine.org/clippings/1940s).
+
+### Settlement and repopulation on Palestinian land
+
+An 18 January New York Times report by Anne O'Hare McCormick describes the Israeli government clearing a wrecked Arab village for settlement, seven new settlements started in Galilee on land left by Palestinians, and plans for 51 more. This is contemporary reporting of state settlement activity and its effect on return prospects. The reported numbers are starts/plans, not verified completions or parcel-level legal findings. The article's estimate of 750,000 refugees is a broad conflict-wide stock estimate and is not used as an annual, Israel-attributed displacement total. [Archived NYT clipping](https://coveringpalestine.org/clippings/1940s).
+
+A 30 January AP field report describes refugee overcrowding in Egyptian-held southern Palestine. It quotes Egyptian Army representatives estimating 225,000 refugees behind their lines, including 70,000 in Gaza and 95,000 in Khan Yunis. These are attributed population-stock estimates and humanitarian context, not a count of people newly displaced by Israel in 1949. [Archived AP clipping](https://coveringpalestine.org/clippings/1940s).
+
 ## Year-by-year coverage ledger
 
 | Year(s) | Status |
 |---|---|
 | 1948 | Initial pass recorded in the event register; further source validation remains open. |
-| 1949–2004 | Incident-level non-Israeli press and international-record scan pending. |
+| 1949 | Initial scan recorded; original ICRC reports, displacement totals, and additional press cases remain to verify. |\n| 1950–2004 | Incident-level non-Israeli press and international-record scan pending. |
 | 2005–2025 | OCHA West Bank annual indicators available; not a substitute for incident-level historical news scanning. |
 | 2026 | Partial-year scan pending; keep reporting cutoff explicit. |
 
 ## Next research tranche
 
-Continue with 1949, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
+Continue with 1950, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
