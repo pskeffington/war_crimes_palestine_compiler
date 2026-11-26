@@ -424,6 +424,43 @@ The broadest supported measure is about 200,000 West Bank-to-East Bank crossings
 
 This is an initial scan. No independently verified Israeli attack in Lebanon in 1967 was found; this is a search result, not proof of absence. Broader combat casualty reconstruction, individual detention/interrogation files, additional contemporary non-Israeli press and attacks on UNEF positions remain open.
 
+## 1968: initial scan
+
+This pass adds Israeli military actions, detention-treatment records and settlement expansion leads. The yearbook is a retrospective UN synthesis of contemporary complaints and replies; Jordan, Lebanon, Syria and the United Arab Republic often supplied casualty or displacement figures, while Israel gave security or self-defence explanations. Those positions are kept distinct from UN observer findings and Security Council resolutions.
+
+### Jordan Valley refugee camps and displacement
+
+Jordan reported Israeli shelling of al-Karameh and nearby villages on 8 February, with 17 civilians killed and 60 wounded. For the separate 15 February attacks, Jordan reported 23 killed (16 civilians and 7 soldiers), 59 seriously injured, and thousands of villagers and refugees displaced. The Commissioner-General of UNRWA separately reported that about 5,000 civilians left the East Bank Jordan Valley after the 8 and 15 February military incidents. Jordan also alleged that 84 West Bank residents were expelled across the river on 15 February; no individual roster or independent confirmation was found. [Jordan's 8 February complaint](https://digitallibrary.un.org/record/502388/files/S_8391-EN.pdf); [Jordan's 15 February complaint](https://digitallibrary.un.org/record/506593/files/S_8419-EN.pdf); [UNRWA's exodus report](https://digitallibrary.un.org/record/506880/files/S_8435-EN.pdf)
+
+### Karameh operation and attacks on Irbid and Salt
+
+For the 21 March operation at Karameh, Israel described a preventive strike on staging bases; Jordan described a mass attack. The Security Council observed that the Israeli action on Jordanian territory was large-scale and carefully planned, deplored loss of life and property damage, and condemned it as a flagrant Charter and cease-fire violation in Resolution 248. The resolution is not a criminal court judgment, and a reconciled Palestinian civilian casualty count remains open.
+
+Jordan reported 30 killed and 60 injured in Irbid alone during the 4 June attack. Israel said it acted after artillery fire from Jordan had caused nine casualties in Israeli villages. For 4 August, Jordan's initial, incomplete report put the toll at 34 killed and 82 seriously wounded near Salt; Israel said the target was two armed-group bases and that Salt and nearby camps were outside the target area. Resolution 256 condemned the further Israeli attacks as Charter violations and deplored loss of life and property damage. [UN Security Council Resolution 248](https://digitallibrary.un.org/record/90751/files/S_RES_248%281968%29-EN.pdf); [UN Security Council Resolution 256](https://digitallibrary.un.org/record/90755/files/S_RES_256%281968%29-EN.pdf); [1968 UN Yearbook](https://digitallibrary.un.org/record/859582/files/1122293-EN.pdf)
+
+### Lebanon: Hula shelling and Beirut airport raid
+
+Lebanon alleged Israeli shelling of Hula on the night of 11–12 May. A UN military observer's one-sided inquiry documented 45 impact sites, shell fragments, Hebrew-marked flare-shell components, two heavily damaged houses and medical evidence for one woman killed and two people wounded. Israel said it returned fire after Israeli villages had been shelled. The observer did not investigate inside Israel, so the inquiry documents harm and physical evidence but does not settle firing attribution.
+
+On 28 December, Israeli helicopter-borne troops attacked Beirut International Airport. UN observers saw 13 destroyed civilian aircraft; Israel acknowledged responsibility. Resolution 262 condemned the premeditated action as a violation of Charter and cease-fire obligations and said Lebanon was entitled to redress. The U.S. representative also condemned the attack, saying the Athens attack on an Israeli aircraft did not justify retaliation against Lebanon and that the Beirut operation was disproportionate. No American casualties were identified. [UN observer report S/8678](https://digitallibrary.un.org/record/518844/files/S_8678-EN.pdf); [UNTSO Beirut airport inquiry](https://digitallibrary.un.org/record/604845/files/S_SUPP_1968_4--%5EOR_SC_1968_4%5E-EN.pdf); [UN Security Council Resolution 262](https://digitallibrary.un.org/record/90758/files/S_RES_262%281968%29-EN.pdf)
+
+The UN Yearbook also records Lebanese complaints of an Israeli border crossing and village shelling on 14 June, and shelling complaints on 27–28 October for which UN observers saw mortar craters. The summaries do not establish the firing source or give casualties. These remain allegations, with Israel citing defensive measures.
+
+### Detention, land and settlement expansion
+
+A later UN Special Committee report quotes an ICRC report on Nablus Prison dated 26 February 1968 stating that detainees were tortured during military-police interrogation. It quotes an ICRC Hebron Prison report dated 31 October describing brutal interrogation and named prisoners with scars. The number of affected detainees is unknown; the original ICRC reports were not directly reviewed. [UN Special Committee report A/8089](https://digitallibrary.un.org/record/849689/files/A_8089-EN.pdf)
+
+The UN Yearbook records Jordanian and Moroccan protests against an Israeli decree of 29 February that removed the “enemy territory” classification and set up customs and civilian control posts for entry into and exit from Israel. Jordan reported Israeli officials supporting an attempt by about 80 Orthodox Jewish settlers to establish residence in Hebron; Israel described a small group taking up residence. A later UN inventory dates West Bank Jordan Valley sites including Kalia and Argaman to 1968, and lists Ramat Eshkol in East Jerusalem and multiple Golan settlements as founded that year. Its retrospective entry describes 1,700 Ramat Eshkol housing units and about 600 dunums of expropriated Arab land. Parcel-level displacement counts have not been established. [1968 UN Yearbook](https://digitallibrary.un.org/record/859582/files/1122293-EN.pdf); [UN settlement inventory](https://www.un.org/unispal/document/auto-insert-189664/); [Jordan Valley chronology](https://www.un.org/unispal/document/auto-insert-183934/)
+
+### Annual displacement count and U.S. priority
+
+The best-supported 1968 displacement estimate found in this pass is about 5,000 civilians leaving the East Bank Jordan Valley after the February military incidents, per UNRWA. This is a specific incident-related estimate, not a count of all Palestinians newly displaced in 1968. Jordan's 84-person expulsion figure is unverified. The UN Yearbook also records a United Arab Republic allegation that 35,000 Gaza residents were evicted during February, which Israel denied; that figure is not accepted as a verified count. The broader registered-refugee and displaced-person population in East Jordan in 1968 includes people displaced in 1967 and should not be counted as new 1968 displacement.
+
+No Israeli killing or detention of an American citizen or U.S. force member was verified in this year's scan. The Beirut airport attack drew an explicit U.S. condemnation, but no American victims were identified. Further research should examine U.S. diplomatic archives, contemporary foreign press, original UNTSO annexes, Israeli settlement records, and additional 1968 incident complaints, including December attacks on Jordanian communities.
+
+This is an initial scan. Continue with 1969; the events above are documented leads, not a comprehensive annual inventory.
+
+
 ## Next research tranche
 
-Continue with 1968, prioritizing U.S. citizens and forces, Israeli military/settler attacks, Palestinian deaths and displacement, detention, land measures, settlements and Israeli actions in Lebanon. Keep actions by other actors outside the incident dataset and preserve disputed claims with denials.
+Continue with 1969, prioritizing U.S. citizens and forces, Israeli military/settler attacks, Palestinian deaths and displacement, detention, land measures, settlements and Israeli actions in Lebanon. Keep actions by other actors outside the incident dataset and preserve disputed claims with denials.
