@@ -191,6 +191,18 @@ UN military observers investigated the Israeli army's attack on the Qalqiliya po
 
 This remains an initial scan. No defensible 1956 annual Palestinian displacement total was identified. Detainee totals, additional raids, and settlement/land policy research remain open. Refugee population totals and proposed resettlement plans are not counted as actual annual displacement.
 
+## 1957 initial scan
+
+### Israeli land preparation in the Government House neutral zone (21 July onward)
+
+UNTSO reported that Israeli workmen began staking out part of the zone between the Israel-Jordan armistice demarcation lines on 21 July. They used earthmoving and agricultural equipment to cut roads and plough land for a stated afforestation and beautification project. UNTSO observed up to about fifteen armed Israeli Border Police protecting laborers; it did not observe Israeli military personnel in the zone except officers who inspected it twice. The report says Israel had progressively extended cultivation in the area since 1949 and that records held by the UN Conciliation Commission indicated the zone was predominantly Arab-owned. However, determining title to particular parcels required a registry search; UNTSO noted that ownership of 50–60 uprooted olive trees was not established. It could not authoritatively decide the competing civilian land-use claims. Jordan alleged armed positions and fencing; those allegations should remain attributed rather than folded into UNTSO's findings. UNTSO also documented Jordanian troops, military works and military traffic in the zone. It recommended suspending the Israeli afforestation project pending negotiations and respecting ownership established by land registries. Security Council Resolution 127 followed in January 1958, so it is a later decision, not a 1957 finding. No deaths, injuries, arrests or displacement were reported in the reviewed UN record. [UNTSO report S/3892](https://digitallibrary.un.org/record/577500/files/S_3892-EN.pdf); [Dulles message to Ben-Gurion, 23 October 1957](https://history.state.gov/historicaldocuments/frus1955-57v17/d388); [Security Council Resolution 127 (1958)](https://digitallibrary.un.org/record/280583).
+
+### Gaza withdrawal and reported removal of 25 families (March)
+
+A. J. Liebling's contemporaneous field report says Israel's four-month occupation of Gaza ended in March 1957 and that Israeli forces removed twenty-five families during withdrawal. The report does not identify the families, destination, whether they consented, or the legal basis; record this as a contemporary report of removal, not a confirmed forced expulsion or a complete displacement count. The article gives UNRWA's Gaza refugee population as 219,423 at its last count; that is a population stock, not 1957 displacement. [Liebling, The New Yorker, 9 March 1957](https://www.newyorker.com/magazine/1957/03/16/letter-from-gaza).
+
+This remains an initial scan. The 25 families are a numerical displacement lead, not an annual flow total. No annual total for Palestinian displacement, detention or civilian casualties has been established. Broader non-Israeli press searches and additional incident, settlement, land-policy, detention and abuse research remain open.
+
 ## Year-by-year coverage ledger
 
 | Year(s) | Status |
@@ -204,7 +216,8 @@ This remains an initial scan. No defensible 1956 annual Palestinian displacement
 | 1954 | Initial scan records Nahalin; additional press and annual displacement totals remain open. |
 | 1955 | Initial scan records four episodes; detention, land/settlement expansion, broader press review and annual displacement totals remain open. |
 | 1956 | Initial scan records Gaza occupation/screening, Khan Yunis and Rafah casualty lists, Kafr Qasim, Husan/Wadi Fukin and Qalqiliya; annual displacement flow remains unknown. |
-| 1957–2004 | Incident-level non-Israeli press and international-record scan pending. |
+| 1957 | Initial scan adds the Government House neutral-zone land-preparation dispute and a contemporary report of 25 families removed during Gaza withdrawal; neither establishes an annual displacement total. |
+| 1958–2004 | Incident-level non-Israeli press and international-record scan pending. |
 | 2005–2025 | OCHA West Bank annual indicators available; not a substitute for incident-level historical news scanning. |
 | 2026 | Partial-year scan pending; keep reporting cutoff explicit. |
 
