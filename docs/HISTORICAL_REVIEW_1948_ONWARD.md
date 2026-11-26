@@ -288,6 +288,26 @@ JTA reported that the parade proceeded in Jerusalem on 20 April, with tanks and 
 
 This initial 1961 scan found no U.S. citizen or U.S. forces victim lead and no Israeli action in Lebanon. Those are search results, not proof of absence. No new displacement total is supported by the incidents reviewed.
 
+## 1962 initial scan
+
+### Israeli raid on Syrian positions and villages near Lake Tiberias (16–17 March)
+
+UNTSO documented a sequence of firing incidents before an Israeli military raid on Syrian positions near Lake Tiberias. The Israeli Defence Forces said the operation destroyed Syrian positions after attacks on Israeli boats and fishermen. Syrian complaints described Israeli fire against posts and villages; the UN report records craters and projectile evidence, and a witness account that villagers fled from Nuquieb to El-Koursi. UN observers could not closely follow the night operation and described the investigation as incomplete. The Security Council nevertheless determined that Israel's 16–17 March attack constituted a flagrant violation of Resolution 111 (1956). The Council resolution gives no casualty or displacement total, and UNTSO gives no verified count of villagers who fled. A U.S. State Department memorandum characterized the action as a retaliatory raid by perhaps 300–400 Israeli forces and said Washington opposed retaliatory raids; that is a contemporary U.S. assessment, not an independent victim count. [UNTSO report S/5102](https://digitallibrary.un.org/record/627725/files/S_5102-EN.pdf); [Security Council Resolution 171](https://digitallibrary.un.org/record/112170); [FRUS, memorandum from Secretary Rusk to President Kennedy](https://history.state.gov/historicaldocuments/frus1961-63v17/d226); [JTA, 19 March 1962](https://www.jta.org/archive/uneasy-quiet-prevails-along-syrian-israeli-border-u-s-watches-situation).
+
+### Aerial battle and reported child injury (20 March)
+
+The UNTSO report says observers clearly saw a six-aircraft dogfight in Syrian airspace. Syria alleged that Israeli Mystère jets had violated its airspace, engaged Syrian aircraft and dropped four fuel tanks; a UN observer was shown the tanks and saw a child in hospital with a slight injury. The report does not conclusively establish which aircraft dropped the tanks or the full sequence, so the Israeli attribution remains provisional. [UNTSO report S/5102](https://digitallibrary.un.org/record/627725/files/S_5102-EN.pdf).
+
+### Arrests during Beit Netofa pipeline work (August)
+
+JTA reported that Israeli police made night arrests of an unspecified number of Arabs said to oppose excavation for a water pipeline in the Beit Netofa area; work resumed under heavy police guard. The source does not name detainees or give charges, duration, outcomes, or an independent inquiry. Record this as a press-reported arrest episode and state infrastructure conflict, not as proof of unlawful detention or abuse. [JTA, 23 August 1962](https://www.jta.org/archive/israel-resumes-work-on-water-project-inciting-arabs-arrested).
+
+### Two teenage Arab citizens imprisoned after espionage convictions (December)
+
+JTA reported that two 17-year-old Israeli Arab defendants were each sentenced to six years in prison for espionage. The dispatch also relayed their statement that Egyptian intelligence had detained and recruited them during a trip to Gaza. This is included as a state capture/prosecution/imprisonment record relevant to the project’s detention scope; the reviewed report alleges no Israeli mistreatment, and no judgment, appeal or prison record has yet been located. [JTA, 28 December 1962](https://www.jta.org/archive/two-israeli-arabs-sentenced-in-beersheba-to-six-years-for-espionage).
+
+This initial scan found no U.S. citizen or U.S. forces victim lead and no Israeli action in Lebanon. These are search results, not proof of absence. The total number displaced in 1962 remains unknown; one UNTSO witness account says villagers fled during the March attack but supplies no count.
+
 ## Next research tranche
 
-Continue with 1962, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
+Continue with 1963, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
