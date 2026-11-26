@@ -340,6 +340,30 @@ UNTSO observers logged heavy exchanges after a Syrian warning shot was fired at 
 
 This scan found no verified U.S. citizen or U.S. forces victim lead and no Israeli action in Lebanon for 1964; these are search results, not proof of absence. The total number displaced in 1964 remains unknown.
 
+## 1965 initial scan
+
+### Israeli fire on Syrian cultivators and equipment (13–18 May)
+
+Syria's Security Council letter alleged repeated Israeli fire on Syrian cultivators and agricultural equipment over six days, with crop and livestock damage. The evidence is strongest for 13 May: the Israel-Syria Mixed Armistice Commission chairman's investigation found no evidence of Syrian fire and said Israeli fire targeted equipment and civilians working well inside Syrian territory. He described firing from within the demilitarized zone as a serious breach and prohibited weapons in the Israeli sector as a flagrant violation. The later dates in the complaint remain party allegations in this scan. [Syrian letter S/6382](https://digitallibrary.un.org/record/609672/files/S_6382-EN.pdf); [Syrian letter quoting the Commission finding, S/6392](https://digitallibrary.un.org/record/609681/files/S_6392-EN.pdf)
+
+### Israeli raid and civilian-home demolition in Jordan (27 May)
+
+The Jordan-Israel Mixed Armistice Commission found Israeli forces crossed the Armistice Demarcation Line, demolished civilian homes, killed two men and three children (the youngest four), and wounded two adults and three children (the youngest two). A Jordanian soldier was also wounded in a separate incident when the force fired on a routine patrol. The Commission found no evidence Jordan was involved in sabotage against Ramat-Hahovesh and condemned the raid as a flagrant violation of the General Armistice Agreement. It did not supply a displaced-person count. [Jordan's transmission of Commission findings, S/6446](https://digitallibrary.un.org/record/610114/files/S_6446-EN.pdf)
+
+### Mob attack on Ramleh's Arab quarter (22 August)
+
+After a fatal traffic collision involving an Arab taxi driver and a Jewish youth, hundreds of Jewish Israeli youths attacked Arab residents and attempted to enter Ramleh's Arab quarter. JTA reported at least 12 Arab residents injured and 21 youths arrested; police blocked the attempted entry. A PLO memorandum transmitted by Syria alleged that more than 500 attackers intended to destroy the quarter. The register preserves that claim as attributed advocacy testimony and records the JTA account separately. No displacement was reported. [JTA, 24 August 1965](https://www.jta.org/archive/israeli-police-protect-ramla-arabs-from-attacks-21-youths-arrested); [UN document S/6731](https://www.un.org/unispal/document/auto-insert-212047/)
+
+### Israeli army raid into southern Lebanon (28–29 October)
+
+Lebanon reported that Israeli regular forces entered Houla and Meiss El Jabal, destroyed houses and a spring with three reservoirs, and caused the death of a woman. The Lebanese letter says UN observers investigated on site and photographed the evidence. Israel's reply acknowledged a 'warning action' by an army unit that blew up an empty house and a water installation, and described it as a response to prior sabotage attacks it attributed to armed groups crossing from Lebanon. A U.S. diplomatic record shows the U.S. Assistant Secretary reminded Israel's Foreign Minister of Washington's opposition to unilateral cross-border action. No displaced-person total or final legal ruling was found. [Lebanon's letter S/6898](https://digitallibrary.un.org/record/533677/files/S_6898-ES.pdf); [Israel's reply S/6956](https://digitallibrary.un.org/record/532109/files/S_6956-EN.pdf); [U.S. FRUS record](https://history.state.gov/historicaldocuments/frus1964-68v18/d248)
+
+### State demolition of abandoned Palestinian villages (1965–1969)
+
+Historian Aron Shai's peer-reviewed study traces an Israel Land Administration demolition program, begun in spring 1965, targeting Palestinian villages abandoned during the 1948 war. Because this is a multi-year program and residents had already been displaced, it is recorded as post-displacement destruction and land/landscape policy, not as a count of people newly displaced in 1965. The cited study does not provide a 1965-specific village count. [Shai, *History and Memory* 18, no. 2 (2006)](https://doi.org/10.2979/his.2006.18.2.86)
+
+This scan found no verified U.S. citizen or U.S. forces victim lead for 1965; this is a search result, not proof of absence. The total number displaced in 1965 remains unknown. No annual displacement count is inferred from destroyed homes or from the multi-year village-demolition program.
+
 ## Next research tranche
 
-Continue with 1965, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
+Continue with 1966, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
