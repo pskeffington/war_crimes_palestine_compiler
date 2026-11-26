@@ -2,6 +2,10 @@
 
 **Coverage:** 2005–2025, occupied West Bank including East Jerusalem where the OCHA indicator covers it. Gaza and Lebanon require separate territorial series and are not combined here. This is an evidence-led review of documented incidents and trends; it does not itself determine whether a war crime occurred. “Israeli forces” and “Israeli settlers” are separated where the source does so. Figures for Palestinian casualties below are those OCHA attributes to Israeli forces or settlers; settler incident counts are a distinct measure and must not be added to casualty counts.
 
+## Historical coverage
+
+This West Bank statistical series begins in 2005. The historical, incident-level scan starts in 1948; see [Historical review: 1948 onward](HISTORICAL_REVIEW_1948_ONWARD.md) and the [coverage ledger](../data/historical_year_index.csv). Years not yet researched remain marked pending.
+
 ## Comparable annual indicators
 
 The table is also available as [CSV](../data/west_bank_annual_indicators.csv). OCHA reports casualties from 2005, settler violence from 2006, and demolitions/displacement from 2009. “Settler attacks” means incidents resulting in casualties and/or property damage, not every reported act of harassment or restriction. OCHA's annual figures are revised over time; this matrix uses the finalized February 2026 snapshot vintage, and later revisions should be logged rather than silently substituted.
