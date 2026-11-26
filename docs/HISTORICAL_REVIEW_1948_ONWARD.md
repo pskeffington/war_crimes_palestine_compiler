@@ -73,15 +73,29 @@ The UNTSO Chief of Staff's 18 September report transmits an investigation by the
 
 The Jewish Telegraphic Agency reported on 16 October that the last 75 Arab families from Migdal Gad/Majdal had been transferred to Gaza the previous day. A later UN Mixed Armistice Commission report records about 2,000 Arabs expelled from El-Majdal by Israeli authorities and calls for repatriation and restoration of rights/property for those found entitled to return. Use the 2,000 as the commission's estimate, and 75 families as the reported final group, not a separate total. The contemporary report's language does not establish whether consent was free; the UN commission's later description and remedy should be retained alongside Israel's explanation in the underlying proceedings. [JTA report](https://www.jta.org/archive/israelis-debanese-study-boundary-demarcation-75-arab-families-repatriated-to-gaza); [UN commission report](https://digitallibrary.un.org/record/479809/files/S_2388-EN.pdf).
 
+## 1951 initial scan
+
+### Wadi Ara village expulsions and land seizure (February)
+
+A contemporary Palestinian press report provides a lead on continued displacement inside the new state: Adel Manna's University of California Press monograph cites *Al-Ittihad* of 10 February 1951 reporting that inhabitants of thirteen small Wadi Ara villages were uprooted and their lands confiscated. A later UN Special Committee report also records the 13-village expulsion and land confiscation. The original Arabic newspaper item and village-by-village population, destination, and orders still need review; the register therefore records no displaced-person total. [Manna, *Nakba and Survival*](https://webfiles.ucpress.edu/oa/9780520389373_WEB.pdf); [UN report A/39/360](https://digitallibrary.un.org/record/66827/files/A_39_360-EN.pdf).
+
+### Border village attacks and reported civilian deaths (25 January–13 February)
+
+The UNTSO Chief of Staff's report S/2048 lists Jordanian complaints that Israeli forces attacked border villages during this period. The entries include claims of two civilians killed in Saffa, ten killed and eight wounded in Sharafat after two houses were blown up, and one man and two children killed in Falam, alongside attacks or other actions reported at Beit Iksa, Beit Surik, Yalu, Deir Ballut, and Imwas. On 14 February the Mixed Armistice Commission condemned wanton killings and home destruction collectively and treated the complaints as acted upon; the report does not separately adjudicate each allegation or give independent casualty verification for every event. These figures remain complaint-level reports, not confirmed annual totals. [UNTSO report S/2048](https://digitallibrary.un.org/record/479492/files/S_2048-EN.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0).
+
+### Shelling of Idna (7 March)
+
+The Jordan-Israel Mixed Armistice Commission found that shelling of Idna by Israeli forces constituted a technical violation of the General Armistice Agreement and condemned it. The decision also said the violation resulted from lesser contraventions by Jordanian residents and ordered the demarcation line to be marked clearly. The quoted finding gives no casualty number and is an armistice decision, not a criminal judgment. [UN report of the Mixed Armistice Commissions](https://digitallibrary.un.org/record/605779/files/S_SUPP_1951_4--%5EOR_SC_1951_4%5E-EN.pdf).
+
 ## Year-by-year coverage ledger
 
 | Year(s) | Status |
 |---|---|
 | 1948 | Initial pass recorded in the event register; further source validation remains open. |
-| 1949 | Initial scan recorded; original ICRC reports, displacement totals, and additional press cases remain to verify. |\n| 1950 | Initial scan recorded for El Auja and Majdal; broader annual displacement total and other incidents remain unverified. |\n| 1951–2004 | Incident-level non-Israeli press and international-record scan pending. |
+| 1949 | Initial scan recorded; original ICRC reports, displacement totals, and additional press cases remain to verify. |\n| 1950 | Initial scan recorded for El Auja and Majdal; broader annual displacement total and other incidents remain unverified. |\n| 1951 | Initial scan records Wadi Ara displacement, UN-listed border-village allegations, and the Idna armistice finding; original press and victim totals remain to verify. |\n| 1952–2004 | Incident-level non-Israeli press and international-record scan pending. |
 | 2005–2025 | OCHA West Bank annual indicators available; not a substitute for incident-level historical news scanning. |
 | 2026 | Partial-year scan pending; keep reporting cutoff explicit. |
 
 ## Next research tranche
 
-Continue with 1951, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
+Continue with 1952, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
