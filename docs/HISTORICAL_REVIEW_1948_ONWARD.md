@@ -260,6 +260,20 @@ Historical scholarship reports that Israel’s government decided in August 1959
 
 The initial 1959 scan found no documented Israeli action in Lebanon and no U.S. citizen or U.S. forces victim lead; this is a search result, not proof that none occurred. The annual displacement total is unknown. A separate UNTSO investigation of the January 23 shepherd killing on the Israel–Syria frontier left the initial-firing attribution disputed, so it is not included as an Israeli-attributed attack. [UNTSO report S/4164](https://digitallibrary.un.org/record/605638/files/S_SUPP_1959_1--%5EOR_SC_1959_1%5E-EN.pdf).
 
+## 1960 initial scan
+
+### Khirbat at Tawafiq attack and Qunaytirah overflight (31 January–1 February)
+
+UNTSO investigated a series of clashes in the southern Israel-Syria demilitarized zone. The Israel-Syrian Mixed Armistice Commission found that regular Israeli armed forces attacked Khirbat at Tawafiq overnight on 31 January–1 February. It said UN military observers found the village had only a protective trench and barbed wire, and that the attack caused near-total destruction, two deaths and two wounded. The Commission condemned the attack and found a flagrant violation of the armistice. JTA contemporaneously reported that about 50 houses had been leveled, while describing the village as a Syrian military base; Israel said the raid targeted an illegal military post. These are retained as differently attributed descriptions, with the UN investigation as the main evidence. No household displacement count is given. [UNTSO report S/4270 and reproduced Commission resolutions](https://digitallibrary.un.org/record/604465/files/S_SUPP_1960_1--%5EOR_SC_1960_I%5E-EN.pdf); [JTA, 2 February 1960](https://www.jta.org/archive/syrian-military-base-wiped-out-three-israelis-dead-seven-wounded); [Israel's response S/4271, in the UN supplement](https://digitallibrary.un.org/record/604465/files/S_SUPP_1960_1--%5EOR_SC_1960_I%5E-EN.pdf).
+
+The same Commission record says a UN observer identified four Mystère jets, a type used by the Israeli Air Force, over Qunaytirah in Syrian territory for about half an hour on 1 February. The Commission condemned this hostile act as an armistice violation. No casualties were reported. [UNTSO report S/4270](https://digitallibrary.un.org/record/604465/files/S_SUPP_1960_1--%5EOR_SC_1960_I%5E-EN.pdf).
+
+### Negev Bedouin relocation proposal
+
+Historical scholarship based on archival material reports that, in July, Agriculture Minister Moshe Dayan proposed relocating 500 Bedouin families to Ramle and Jaffa, with IDF and Labor Ministry approval. The source documents planning and individual transfer requests; this review does not establish that the 500-family proposal was implemented or that 500 families were displaced. It is recorded as state population and land policy planning, not an accomplished displacement count. [Nasasra, Indiana University Press, *The Tribal Challenge*, chapter 3](https://publish.iupress.indiana.edu/read/3261150d-1153-433f-8175-b91b0ac70629/section/9d25bd58-2385-4694-94aa-56020914d885).
+
+This initial scan found no U.S. citizen or U.S. forces victim lead and no Israeli action in Lebanon; those are search results, not proof of absence. No defensible annual displacement total for 1960 has been identified.
+
 ## Next research tranche
 
-Continue with 1960, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
+Continue with 1961, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
