@@ -143,6 +143,26 @@ Jordan reported that armed Israelis attacked Nahalin near Bethlehem shortly afte
 
 This is an initial incident scan, not a complete annual review. Additional contemporary press and records, settlement/land expansion, detention and displacement totals remain to be checked.
 
+## 1955 initial scan
+
+### Gaza military raid / Operation Black Arrow (28 February–1 March)
+
+The UNTSO investigation found that Israeli regular forces crossed the demarcation line east of Gaza and attacked an Egyptian military camp, as well as the stationmaster's house and a water-pump house serving Gaza. The Mixed Armistice Commission found the operation prearranged, planned, and ordered by Israeli authorities. Its figures separated 36 Egyptian military deaths from two civilian deaths and 29 military wounded from two civilian wounded; Egypt's initial complaint gave slightly higher military figures. One civilian killed was a seven-year-old Palestinian boy. The Security Council condemned the attack as inconsistent with the cease-fire, Armistice Agreement, and Charter obligations. No displacement count was found. [UNTSO report S/3373](https://digitallibrary.un.org/record/572533/files/S_3373-EN.pdf); [Security Council decision via UN Yearbook](https://digitallibrary.un.org/record/860243/files/1122956-EN.pdf?ln=ru).
+
+### Shooting and removal of Hassan Abu Anza (9 March)
+
+The Mixed Armistice Commission found that an Israeli patrol fired across the demarcation line at unarmed Palestinian farmer Hassan Abu Anza while he planted watermelons in the Abbassan area. He was wounded; two armed Israelis crossed, removed him and his donkey to Israeli-controlled territory. The Commission found a flagrant armistice violation and requested his return. The record reviewed here does not establish the later outcome. [UNTSO/MAC decision](https://unispal.un.org/pdfs/2853648FAF27622D052564F800568102.pdf).
+
+### Shelling of Gaza and Deir el Balla (5 April)
+
+A U.S. diplomatic telegram relaying UNTSO information records Israeli artillery and mortar impacts in Deir el Balla and Gaza town. Initial Egyptian casualty figures in the 5 April cable were explicitly unconfirmed; a 6 April update relayed the latest figures as 55 civilians killed and 102 wounded, with an earlier account noting 17 children among the dead. These are evolving figures reported through a diplomat, not a final casualty determination. No displacement count was found. [FRUS telegram on the 5 April shelling](https://history.state.gov/historicaldocuments/frus1955-57v15/d247).
+
+### Khan Yunis and Bani Suheila raid (31 August–1 September)
+
+UNTSO reported that an Israeli light-armoured unit entered Egyptian-controlled territory, machine-gunned and demolished the Khan Yunis police station, partly destroyed a hospital under construction, machine-gunned buildings and homes in Bani Suheila, and attacked an Egyptian position. The UNTSO investigation was incomplete: it relayed Egyptian authorities' report of 36 killed and 13 wounded among police, armed forces and civilians, but could not establish the exact number, and observers had seen few of the listed casualties. A contemporaneous on-scene New York Times report, republished by Covering Palestine, counted 35 dead in its text, including eight villagers, 15 policemen, and 12 Palestinian Arab soldiers; its headline said 39. Keep these source counts separate; no reliable Palestinian civilian-only total or displacement count is established. [UNTSO report S/3430](https://digitallibrary.un.org/nanna/record/605332/files/S_SUPP_1955_3--%5EOR_SC_1955_3%5E-EN.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0); [contemporary on-scene report](https://coveringpalestine.org/archive/cp-1955-015).
+
+This is an initial scan. No defensible annual displaced-person count was found for 1955. Gaza held a large pre-existing refugee population; that population stock is not a measure of new displacement during this year. A systematic review of 1955 detention, land/settlement expansion, and additional foreign press remains open.
+
 ## Year-by-year coverage ledger
 
 | Year(s) | Status |
@@ -152,10 +172,13 @@ This is an initial incident scan, not a complete annual review. Additional conte
 | 1950 | Initial scan recorded for El Auja and Majdal; broader annual displacement total and other incidents remain unverified. |
 | 1951 | Initial scan records Wadi Ara displacement, UN-listed border-village allegations, and the Idna armistice finding; original press and victim totals remain to verify. |
 | 1952 | Initial scan adds seven event records/leads, including Gaza attacks and killings, Qaffin, Es Sani and Wadi Ara/Kafr Ara; press, attribution and annual displacement checks remain open. |
-| 1953–2004 | Incident-level non-Israeli press and international-record scan pending. |
+| 1953 | Initial scan records Falameh/Rantis, Bureij and Qibya; press archives and annual displacement totals remain open. |
+| 1954 | Initial scan records Nahalin; additional press and annual displacement totals remain open. |
+| 1955 | Initial scan records four episodes; detention, land/settlement expansion, broader press review and annual displacement totals remain open. |
+| 1956–2004 | Incident-level non-Israeli press and international-record scan pending. |
 | 2005–2025 | OCHA West Bank annual indicators available; not a substitute for incident-level historical news scanning. |
 | 2026 | Partial-year scan pending; keep reporting cutoff explicit. |
 
 ## Next research tranche
 
-Continue with 1953, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
+Continue with 1956, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
