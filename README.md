@@ -18,6 +18,9 @@ The Irgun (Etzel; Hebrew acronym for the National Military Organization) was a p
 - [Structured incident register](data/incidents.csv): normalized, machine-readable incident rows.
 - [Sources and method](docs/SOURCES_AND_METHOD.md): inclusion rules, evidence grades, source capture and correction protocol.
 - [Research queue](docs/RESEARCH_QUEUE.md): unresolved tasks and next verification steps.
+- [Historical review from 1948 onward](docs/HISTORICAL_REVIEW_1948_ONWARD.md): year-by-year source scan beginning with the 1948 war.
+- [1948 event register](data/historical_incidents.csv): contemporary foreign press, UN/ICRC records, later reporting and evidence-status notes.
+- [Coverage ledger](data/historical_year_index.csv): progress by year; unreviewed years remain explicitly pending.
 - [Year-by-year West Bank review](docs/YEAR_BY_YEAR_REVIEW.md): casualties, settler attacks, displacement and selected settlement-expansion indicators, 2005–2025.
 - [Annual West Bank indicator data](data/west_bank_annual_indicators.csv): source-linked annual OCHA series with attribution and comparability notes.
 
@@ -29,4 +32,4 @@ No bulk scraping or automated harvesting is authorized by this scaffold. “Comp
 
 ## Current state
 
-The scaffold, King David Hotel opening case, and annual West Bank review are committed to a dedicated research branch. The annual panel covers 2005–2025 and uses OCHA’s February 2026 snapshot vintage; settlement expansion indicators are included for 2023–2025 with source-specific definitions. Gaza and Lebanon remain separate research tracks. All incident leads require primary evidence, attribution, citizenship, and scope review case by case.
+The scaffold, King David Hotel opening case, initial 1948 historical review, and annual West Bank indicator panel are committed to a dedicated research branch. The 1948 register begins the requested year-by-year scan; later historical years remain marked pending until researched. Gaza and Lebanon remain separate geographic tracks. All incident leads require source, attribution, and scope review case by case.
