@@ -274,6 +274,20 @@ Historical scholarship based on archival material reports that, in July, Agricul
 
 This initial scan found no U.S. citizen or U.S. forces victim lead and no Israeli action in Lebanon; those are search results, not proof of absence. No defensible annual displacement total for 1960 has been identified.
 
+## 1961 initial scan
+
+### Israeli aircraft attack Bedouin livestock in UAR territory (2 March)
+
+The Egyptian-Israel Mixed Armistice Commission found that two Israeli aircraft crossed the international frontier into UAR airspace, flew very low over a Bedouin flock and machine-gunned the grazing animals. It found a few camels and donkeys killed or wounded and condemned Israel for a hostile and inhuman action. The Commission's decision does not report human casualties and does not enumerate the animals. This is a documented Israeli military action in the wider region, outside Palestine proper. [Commission decision S/4770](https://digitallibrary.un.org/record/630983/files/S_4770-EN.pdf); [UN Yearbook 1961 summary](https://cdn.un.org/unyearbook/yun/pdf/1961/1961_165.pdf).
+
+### Heavy weapons at the Jerusalem parade rehearsal and April parade (17 March–20 April)
+
+Following a Jordanian complaint and UN military observer investigation, the Jordan-Israel Mixed Armistice Commission found that heavy Israeli armament beyond the agreement's limits was present on Israel's side of the Jerusalem demarcation line during a 17 March parade rehearsal. It named a Centurion tank, Sherman tanks and heavy artillery, found an armistice breach, condemned Israel and called for measures to prevent recurrence. Security Council Resolution 162 endorsed the Commission decision and called on Israel to comply. Israel argued that the display was a peaceful ceremony and cited past parades by Jordan. [Commission decision S/4776](https://documents.un.org/api/symbol/access?l=en&s=S%2F4776&t=pdf); [Security Council meeting S/PV.947](https://digitallibrary.un.org/record/631280/files/S_PV-947-EN.pdf); [Resolution 162](https://digitallibrary.un.org/record/112156).
+
+JTA reported that the parade proceeded in Jerusalem on 20 April, with tanks and artillery, including U.S.-made recoilless guns mounted on jeeps. That later reporting documents the parade and equipment; the Commission's finding and Resolution 162 concerned the March rehearsal and do not constitute a separate adjudication of the April event. No casualties or displacement were reported in the reviewed accounts. [JTA, 21 April 1961](https://www.jta.org/archive/300-000-spectators-watch-jerusalem-military-parade-air-force-eliminated).
+
+This initial 1961 scan found no U.S. citizen or U.S. forces victim lead and no Israeli action in Lebanon. Those are search results, not proof of absence. No new displacement total is supported by the incidents reviewed.
+
 ## Next research tranche
 
-Continue with 1961, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
+Continue with 1962, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
