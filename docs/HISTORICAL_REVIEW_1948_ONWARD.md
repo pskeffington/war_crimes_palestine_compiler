@@ -458,7 +458,7 @@ The best-supported 1968 displacement estimate found in this pass is about 5,000 
 
 No Israeli killing or detention of an American citizen or U.S. force member was verified in this year's scan. The Beirut airport attack drew an explicit U.S. condemnation, but no American victims were identified. Further research should examine U.S. diplomatic archives, contemporary foreign press, original UNTSO annexes, Israeli settlement records, and additional 1968 incident complaints, including December attacks on Jordanian communities.
 
-This is an initial scan. Continue with 1970; the events above are documented leads, not a comprehensive annual inventory.
+This is an initial scan. The events above are documented leads, not a comprehensive annual inventory.
 
 
 ## 1969
@@ -472,6 +472,17 @@ The initial 1969 scan adds eight incident records and eleven source records. It 
 - **Displacement:** No separate, independently supported annual count of Palestinians newly displaced in 1969 was identified in this initial scan. UNRWA's 1968–69 report says about 75,000 people had left Jordan Valley camps in February–March 1968 and remained in temporary camps; this is a 1968 displacement legacy, not a 1969 count.
 - **Americans and U.S. forces:** No American civilian or U.S. service member killed by an Israeli action was verified in the sources reviewed for 1969. This is a finding about the sources reviewed, not proof that no such case exists.
 
+## 1970
+
+The initial 1970 scan adds nine incident records and eleven sources. It combines Security Council resolutions and complaints, UNRWA operational reporting, UN annual review, and a later UN settlement inventory. This is a documented lead set, not a comprehensive annual account.
+
+- **Lebanon:** On 12 May, Israeli ground and air forces and artillery attacked in southern Lebanon. Security Council Resolution 279 demanded immediate withdrawal; Resolution 280 described the Israeli military attack as premeditated, large-scale and carefully planned. Lebanon separately reported artillery shelling of four villages on 22 May, with 20 killed, 40 wounded and 150 houses destroyed or damaged; these preliminary figures remain attributed to Lebanon. A 5 June Lebanese complaint said 50,000 people had been forced to seek refuge in other Lebanese regions following cumulative Israeli actions from 12 May. The nationality of those displaced was not specified, so this is not counted as a Palestinian-only figure. On 5 September, Lebanon reported another Israeli ground incursion and bombing of civilian installations; Resolution 285 demanded complete and immediate withdrawal. Lebanese authorities later reported withdrawal on 6 September, which UNTSO observers did not directly verify.
+- **Jordan:** Jordan's complaints alleged more than 90 people killed or wounded, mostly civilians, in Israeli attacks from January to 10 April, and more than 100 attacks between 11 April and 28 July. These are overlapping aggregate complaints, not verified incident or casualty counts. Jordan also reported an Israeli jet attack and strafing of a civilian bus on 30 June, killing two and wounding 13. The matrix preserves each total as attributed and flags the overlap.
+- **Occupied Palestinian territory:** UNRWA reported curfews, screening, arrests of trainees inside Agency premises, shelter demolitions in Gaza connected to camp road widening, staff detention or deportation, and two staff cases of six-month banishment to Sinai. It reported 14 staff arrested in the West Bank and 57 in Gaza over the reporting year ending 30 June 1970. These administrative counts span calendar years and do not provide a 1970 annual Palestinian displacement total.
+- **Settlement and territorial control:** A later UN list dates establishment of Mevo Horon in the West Bank to 1970. Exact land acquisition dates and displacement attributable to that settlement remain unresolved.
+- **Displacement:** No independently supported annual count of Palestinians newly displaced in 1970 was identified in this initial scan. The Lebanese estimate of 50,000 people displaced to other Lebanese regions is retained as an attributed figure with no nationality breakdown; UNRWA's emergency-camp population figures include persons displaced in 1967 and 1968, not new 1970 displacement.
+- **Americans and U.S. forces:** No American civilian or U.S. service member killed by an Israeli action was verified in the sources reviewed for 1970. This is limited to the source set reviewed and is not proof no case exists.
+
 ## Next research tranche
 
-Continue with 1970, prioritizing U.S. citizens and forces, Israeli military/settler attacks, Palestinian deaths and displacement, detention, land measures, settlements and Israeli actions in Lebanon. Keep actions by other actors outside the incident dataset and preserve disputed claims with denials.
+Continue with 1971, prioritizing U.S. citizens and forces, Israeli military/settler attacks, Palestinian deaths and displacement, detention, land measures, settlements and Israeli actions in Lebanon. Keep actions by other actors outside the incident dataset and preserve disputed claims with denials.
