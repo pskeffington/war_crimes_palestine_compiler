@@ -163,6 +163,34 @@ UNTSO reported that an Israeli light-armoured unit entered Egyptian-controlled t
 
 This is an initial scan. No defensible annual displaced-person count was found for 1955. Gaza held a large pre-existing refugee population; that population stock is not a measure of new displacement during this year. A systematic review of 1955 detention, land/settlement expansion, and additional foreign press remains open.
 
+## 1956 initial scan
+
+### Israeli occupation and administration of Gaza (November 1956–March 1957)
+
+Israel's forces occupied the Gaza Strip beginning 1 November. UNRWA reported curfews imposed by the military authorities prevented the usual ration distribution; daily curfew breaks allowed deliveries to resume and rations reached each registered refugee by 15 November. The Agency said the occupation caused civilian casualties and fear among both refugees and local residents, and that UNTSO could not investigate because Israeli authorities restricted observer movement. UNRWA documented mass screening operations and large numbers taken to interrogation centres, but supplied no detainee total. It reported that more than 213,000 ration-recipient refugees lived in Gaza; this is a population stock, not people newly displaced in 1956. No reliable annual displacement-flow count was found. A UN representative later said administrative measures appeared to facilitate permanence of the military-created situation. Nur Masalha's archival study documents Israeli proposals during the occupation to resettle Gaza's Palestinian refugees elsewhere; these were proposals, not evidence of completed transfer. [UNRWA special report A/3212/Add.1](https://digitallibrary.un.org/record/710955/files/A_3212_Add-1-EN.pdf); [UN Yearbook 1956](https://digitallibrary.un.org/nanna/record/860242/files/1122955-EN.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0); [Masalha study](https://fada.birzeit.edu/bitstream/20.500.11889/8300/1/The%201956-57%20occupation%20of%20the%20Gaza%20Strip%20Israeli%20proposals%20to%20resettle%20the%20Palestinian%20refugees.pdf).
+
+### Khan Yunis killings during occupation (3 November)
+
+UNRWA reported that Israeli troops occupied Khan Yunis and its adjacent refugee camp. Accounts of resistance conflicted: Israeli authorities said refugees participated in resistance; refugees said fighting had ceased and troops killed unarmed civilians while searching for men with weapons. The Director received lists from sources he considered trustworthy naming 275 people allegedly killed: 140 refugees and 135 local residents. He cautioned that the exact number of dead and wounded was not known. Treat 275 as a reported names-list, not a fully verified death toll. [UNRWA special report, paragraph 23](https://digitallibrary.un.org/record/710955/files/A_3212_Add-1-EN.pdf).
+
+### Rafah refugee-camp shooting during screening (12 November)
+
+UNRWA reported that both Israeli authorities and its own sources agreed refugees were killed and wounded by occupying forces during a screening operation, though the causes and numbers were disputed. Israel said refugees were hostile and resisted; refugees denied resistance. UNRWA said the camp's loudspeaker announcement had not reached some sections, insufficient time was allowed, and some Israeli soldiers apparently panicked and fired at a running crowd. The Agency received lists naming 111 people allegedly killed: 103 refugees, seven local residents and one Egyptian. It could not verify each death or complete the list of all dead and missing. Keep the list size distinct from an independently confirmed toll. UNRWA separately listed 66 additional people allegedly killed from 1–21 November, including 48 refugees; individual deaths were unverified and should not be added to the Khan Yunis/Rafah lists. [UNRWA special report, paragraphs 24–30](https://digitallibrary.un.org/record/710955/files/A_3212_Add-1-EN.pdf).
+
+### Kafr Qasim curfew killings (29 October)
+
+Israeli Border Police shot Palestinian citizens returning from work after a curfew was moved to 17:00 with very short notice. A contemporary Associated Press dispatch published when Israel disclosed the incident on 12 December said men, women and children had been killed but gave no total. Contemporary JTA reporting on the 1958 military tribunal said eight Border Police were convicted of murder in 43 deaths and that the court called Colonel Issachar Shadmi's order manifestly illegal; it said Major Shmuel Malinki should have refused it. A 1959 JTA report used the broader count of 49 deaths and reported that Shadmi was fined for exceeding his authority but acquitted of murder. Keep 43 court-conviction deaths and the later 49-person toll separate pending review of the full judgment and death records. [AP report at official disclosure](https://coveringpalestine.org/archive/cp-1956-012); [JTA on the tribunal ruling](https://www.jta.org/archive/military-tribunal-terms-shooting-order-in-kfar-kassem-illegal); [JTA on Shadmi's separate verdict](https://www.jta.org/archive/military-court-acquits-commander-in-kafr-kassem-killings).
+
+### Husan, Wadi Fukin, Sharafa and Khader raids (25–26 September)
+
+The Mixed Armistice Commission majority found that Israeli regular forces carried out a major, unprovoked and premeditated attack on Jordanian territory, using artillery, armored vehicles and aircraft. Its detailed resolution records 12 National Guards killed near Husan and two civilians wounded; it also records a demolished school at Wadi Fukin, 25 Jordanians killed and six wounded at the Sharafa police post, and a 12-year-old girl killed and three civilians wounded at Khader. Jordan's complaint reported 25 killed and six wounded across the area, while a later British parliamentary account cited approximately 39 deaths. These are different source scopes and cannot be summed. The military and police deaths are not counted as Palestinian civilian casualties. [UNTSO/MAC report S/3670](https://digitallibrary.un.org/record/634563/files/S_3670-EN.pdf); [Jordan complaint S/3678](https://digitallibrary.un.org/record/634571/files/S_3678-EN.pdf); [UK Hansard, 5 December 1956](https://hansard.parliament.uk/Commons/1956-12-05/debates/e5b72fa5-ed96-49cc-b8fd-659825250f87/MiddleEast).
+
+### Qalqiliya raid (10–11 October)
+
+UN military observers investigated the Israeli army's attack on the Qalqiliya police post and town. They documented the police post and adjacent pumping house demolished with explosives, shell impacts and damage to houses and the school. They counted 48 Jordanian dead: 43 army, National Guard and police, three civilians and two unidentified. Israel reported 18 of its forces killed. The 48 is a mixed total, not a civilian count; the Mixed Armistice Commission meeting on Jordan's complaint did not reach a completed finding. A contemporary JTA dispatch reported the raid and UN casualty count. [UNTSO report S/3685](https://digitallibrary.un.org/record/634584/files/S_3685-EN.pdf); [JTA report, 12 October 1956](https://www.jta.org/archive/israelis-destroy-jordanian-stronghold-in-seven-hour-battle).
+
+This remains an initial scan. No defensible 1956 annual Palestinian displacement total was identified. Detainee totals, additional raids, and settlement/land policy research remain open. Refugee population totals and proposed resettlement plans are not counted as actual annual displacement.
+
 ## Year-by-year coverage ledger
 
 | Year(s) | Status |
@@ -175,10 +203,11 @@ This is an initial scan. No defensible annual displaced-person count was found f
 | 1953 | Initial scan records Falameh/Rantis, Bureij and Qibya; press archives and annual displacement totals remain open. |
 | 1954 | Initial scan records Nahalin; additional press and annual displacement totals remain open. |
 | 1955 | Initial scan records four episodes; detention, land/settlement expansion, broader press review and annual displacement totals remain open. |
-| 1956–2004 | Incident-level non-Israeli press and international-record scan pending. |
+| 1956 | Initial scan records Gaza occupation/screening, Khan Yunis and Rafah casualty lists, Kafr Qasim, Husan/Wadi Fukin and Qalqiliya; annual displacement flow remains unknown. |
+| 1957–2004 | Incident-level non-Israeli press and international-record scan pending. |
 | 2005–2025 | OCHA West Bank annual indicators available; not a substitute for incident-level historical news scanning. |
 | 2026 | Partial-year scan pending; keep reporting cutoff explicit. |
 
 ## Next research tranche
 
-Continue with 1956, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
+Continue with 1957, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
