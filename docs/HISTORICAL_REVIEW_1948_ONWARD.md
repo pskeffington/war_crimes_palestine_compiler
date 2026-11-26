@@ -92,7 +92,10 @@ The Jordan-Israel Mixed Armistice Commission found that shelling of Idna by Isra
 | Year(s) | Status |
 |---|---|
 | 1948 | Initial pass recorded in the event register; further source validation remains open. |
-| 1949 | Initial scan recorded; original ICRC reports, displacement totals, and additional press cases remain to verify. |\n| 1950 | Initial scan recorded for El Auja and Majdal; broader annual displacement total and other incidents remain unverified. |\n| 1951 | Initial scan records Wadi Ara displacement, UN-listed border-village allegations, and the Idna armistice finding; original press and victim totals remain to verify. |\n| 1952–2004 | Incident-level non-Israeli press and international-record scan pending. |
+| 1949 | Initial scan recorded; original ICRC reports, displacement totals, and additional press cases remain to verify. |
+| 1950 | Initial scan recorded for El Auja and Majdal; broader annual displacement total and other incidents remain unverified. |
+| 1951 | Initial scan records Wadi Ara displacement, UN-listed border-village allegations, and the Idna armistice finding; original press and victim totals remain to verify. |
+| 1952–2004 | Incident-level non-Israeli press and international-record scan pending. |
 | 2005–2025 | OCHA West Bank annual indicators available; not a substitute for incident-level historical news scanning. |
 | 2026 | Partial-year scan pending; keep reporting cutoff explicit. |
 
