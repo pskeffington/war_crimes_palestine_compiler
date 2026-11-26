@@ -203,6 +203,24 @@ A. J. Liebling's contemporaneous field report says Israel's four-month occupatio
 
 This remains an initial scan. The 25 families are a numerical displacement lead, not an annual flow total. No annual total for Palestinian displacement, detention or civilian casualties has been established. Broader non-Israeli press searches and additional incident, settlement, land-policy, detention and abuse research remain open.
 
+### Reported deportation of al-Syajj Arabs in the Negev (1957)
+
+A Palestinian researcher’s endnote states that Israel deported al-Syajj Arabs in the Negev in 1957, citing Hillel Cohen (2001) and Wakim Wakim (2001). The article gives no date, number of people, destination, or operation details. This is a research lead grounded in secondary Palestinian scholarship, not a verified person-level count; the cited works and underlying archival/community evidence remain to be checked. Do not use it to calculate 1957’s annual displacement flow. [Boqa’i, *Palestinian Internally Displaced Persons inside Israel*](https://pij.org/articles/1218/palestinian-internally-displaced-persons-inside-israel-challenging-the-solid-structures).
+
+## 1958 initial scan
+
+### Issawiya access restrictions and police shootings (1–3 June)
+
+UNTSO records worsening friction between Israeli police patrols and Issawiya residents. Its Chief of Staff reported that Israeli authorities closed the only reasonable road available to villagers on 1 June. On 2 June, a UN observer directly saw Israeli police fire during a confrontation over the road; one villager was killed. The report says villagers had not produced firearms during the scuffle and does not identify the person killed. A separate 3 June JTA dispatch relayed the Israeli spokesman’s account that police fired at a group advancing toward a roadblock and one person was wounded; Israeli claims that the group was armed and directed by Jordan were not independently verified in that report. Keep the two shootings separate and attribute the JTA details to the Israeli official account. [UNTSO report S/4030 and addendum S/4030/Add.1](https://digitallibrary.un.org/record/630390/files/S_4030_Add.1-EN.pdf); [JTA, 3 June 1958](https://www.jta.org/archive/100-jordanians-seek-to-enter-israel-territory-on-mt-scopus-one-wounded).
+
+The 26 May Mount Scopus firefight is related context, not a finding that Israel initiated an attack: UNTSO relied on observer evidence and competing Israeli/Jordanian investigations, and the initial firing attribution remained disputed. The July addendum’s ballistic test established that the bullet killing UNTSO officer Lt. Col. George Flint had been fired from Jordanian-controlled territory. Keep this mixed exchange out of Israeli-attributed casualty totals. [UNTSO report S/4030](https://digitallibrary.un.org/record/605630).
+
+### Tamra land confiscation for IDP resettlement (October)
+
+Palestinian researcher Nihad Boqa’i reports that the Israeli government confiscated about 56 plots from Tamra in October 1958 to house internally displaced Palestinians, citing Hillel Cohen (2001) and Israel State Archives Housing Ministry file 4410/61621. The source does not identify plot owners, resettled families, compensation, or an affected-person count. The act is recorded as state land policy; it does not establish that Tamra residents were displaced or that 56 plots equal 56 people. Boqa’i says land was also taken in Judaida and al-Jish months later, but the timing is not precise enough to assign those events to 1958. [Boqa’i, *Palestinian Internally Displaced Persons inside Israel*](https://pij.org/articles/1218/palestinian-internally-displaced-persons-inside-israel-challenging-the-solid-structures).
+
+This remains an initial scan. No defensible annual Palestinian displacement total for 1958 was identified. The Mount Scopus exchange, police incidents, Tamra land policy, additional detention and abuse cases, and non-Israeli press coverage need further review; do not turn refugee population stocks or land plot counts into displacement totals.
+
 ## Year-by-year coverage ledger
 
 | Year(s) | Status |
@@ -216,11 +234,12 @@ This remains an initial scan. The 25 families are a numerical displacement lead,
 | 1954 | Initial scan records Nahalin; additional press and annual displacement totals remain open. |
 | 1955 | Initial scan records four episodes; detention, land/settlement expansion, broader press review and annual displacement totals remain open. |
 | 1956 | Initial scan records Gaza occupation/screening, Khan Yunis and Rafah casualty lists, Kafr Qasim, Husan/Wadi Fukin and Qalqiliya; annual displacement flow remains unknown. |
-| 1957 | Initial scan adds the Government House neutral-zone land-preparation dispute and a contemporary report of 25 families removed during Gaza withdrawal; neither establishes an annual displacement total. |
-| 1958–2004 | Incident-level non-Israeli press and international-record scan pending. |
+| 1957 | Initial scan adds the Government House neutral-zone land-preparation dispute, a contemporary report of 25 families removed during Gaza withdrawal, and a secondary-source lead on the reported deportation of al-Syajj Arabs; counts and details remain incomplete. |
+| 1958 | Initial scan records Issawiya road closure and police shootings, Tamra land confiscation for IDP resettlement, and disputed Mount Scopus exchange context; annual displacement total remains unknown. |
+| 1959–2004 | Incident-level non-Israeli press and international-record scan pending. |
 | 2005–2025 | OCHA West Bank annual indicators available; not a substitute for incident-level historical news scanning. |
 | 2026 | Partial-year scan pending; keep reporting cutoff explicit. |
 
 ## Next research tranche
 
-Continue with 1957, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
+Continue with 1959, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
