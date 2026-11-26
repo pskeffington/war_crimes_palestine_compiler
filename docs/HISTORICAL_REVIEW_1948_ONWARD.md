@@ -63,15 +63,25 @@ An 18 January New York Times report by Anne O'Hare McCormick describes the Israe
 
 A 30 January AP field report describes refugee overcrowding in Egyptian-held southern Palestine. It quotes Egyptian Army representatives estimating 225,000 refugees behind their lines, including 70,000 in Gaza and 95,000 in Khan Yunis. These are attributed population-stock estimates and humanitarian context, not a count of people newly displaced by Israel in 1949. [Archived AP clipping](https://coveringpalestine.org/clippings/1940s).
 
+## 1950 initial scan
+
+### El Auja Bedouin roundup and expulsion (August–September)
+
+The UNTSO Chief of Staff's 18 September report transmits an investigation by the Egyptian-Israeli Mixed Armistice Commission. It says Israeli forces rounded up about 4,000 Bedouins around the El Auja demilitarized zone and drove them across the Egyptian border by 2 September. Representatives of five tribes told the investigators that Israeli operations to clear the area began 20 August, used troops, armored cars, and reconnaissance aircraft, and that Israeli forces burned tents, crops, and belongings after the expulsion. They reported 13 Bedouins killed. Israel denied entering the demilitarized zone, said the El Auja group followed Bedouins expelled from outside it, and characterized many as infiltrators. Preserve the reported deaths as witness statements conveyed through the commission, and do not convert the entire account into a judicial finding. The same report notes approximately 1,000 other Arab expulsions since March; that cumulative figure may overlap with other cases and is not added to 4,000. [UN report S/1797](https://digitallibrary.un.org/nanna/record/605772/files/S_SUPP_1950_3--%5EOR_SC_1950_3%5E-EN.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0).
+
+### Majdal residents transferred to Gaza (summer–October)
+
+The Jewish Telegraphic Agency reported on 16 October that the last 75 Arab families from Migdal Gad/Majdal had been transferred to Gaza the previous day. A later UN Mixed Armistice Commission report records about 2,000 Arabs expelled from El-Majdal by Israeli authorities and calls for repatriation and restoration of rights/property for those found entitled to return. Use the 2,000 as the commission's estimate, and 75 families as the reported final group, not a separate total. The contemporary report's language does not establish whether consent was free; the UN commission's later description and remedy should be retained alongside Israel's explanation in the underlying proceedings. [JTA report](https://www.jta.org/archive/israelis-debanese-study-boundary-demarcation-75-arab-families-repatriated-to-gaza); [UN commission report](https://digitallibrary.un.org/record/479809/files/S_2388-EN.pdf).
+
 ## Year-by-year coverage ledger
 
 | Year(s) | Status |
 |---|---|
 | 1948 | Initial pass recorded in the event register; further source validation remains open. |
-| 1949 | Initial scan recorded; original ICRC reports, displacement totals, and additional press cases remain to verify. |\n| 1950–2004 | Incident-level non-Israeli press and international-record scan pending. |
+| 1949 | Initial scan recorded; original ICRC reports, displacement totals, and additional press cases remain to verify. |\n| 1950 | Initial scan recorded for El Auja and Majdal; broader annual displacement total and other incidents remain unverified. |\n| 1951–2004 | Incident-level non-Israeli press and international-record scan pending. |
 | 2005–2025 | OCHA West Bank annual indicators available; not a substitute for incident-level historical news scanning. |
 | 2026 | Partial-year scan pending; keep reporting cutoff explicit. |
 
 ## Next research tranche
 
-Continue with 1950, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
+Continue with 1951, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
