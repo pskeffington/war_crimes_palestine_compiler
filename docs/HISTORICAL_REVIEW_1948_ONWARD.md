@@ -458,9 +458,20 @@ The best-supported 1968 displacement estimate found in this pass is about 5,000 
 
 No Israeli killing or detention of an American citizen or U.S. force member was verified in this year's scan. The Beirut airport attack drew an explicit U.S. condemnation, but no American victims were identified. Further research should examine U.S. diplomatic archives, contemporary foreign press, original UNTSO annexes, Israeli settlement records, and additional 1968 incident complaints, including December attacks on Jordanian communities.
 
-This is an initial scan. Continue with 1969; the events above are documented leads, not a comprehensive annual inventory.
+This is an initial scan. Continue with 1970; the events above are documented leads, not a comprehensive annual inventory.
 
+
+## 1969
+
+The initial 1969 scan adds eight incident records and eleven source records. It uses UN records, contemporaneous Jewish Telegraphic Agency reporting, and a later UN settlement inventory. These are documented leads; the annual scan remains incomplete.
+
+- **Regional air attacks:** UNTSO investigators reported destroyed and damaged houses, factories and other buildings in Hamah after the Israeli air attack of 24 February, and observed 31 hospitalized people reported injured. The source does not establish that all were civilians. On 26 March, Jordan reported 17 civilians killed and 25 wounded in an Israeli air attack near Es-Salt; Israel said it targeted a Fatah base. The U.S. representative deplored the reported civilian deaths. The Security Council did not adopt a draft resolution on the Es-Salt complaint.
+- **Lebanon:** Lebanon reported four civilians killed and three wounded in the 11 August air attack on six villages. On 26 August, Security Council Resolution 270 condemned the premeditated Israeli air attack on villages in southern Lebanon. Separate Lebanese complaints reported an Israeli helicopter landing at Halta on 4 September and an October 3 helicopter-borne raid in which three civilians were abducted and four wounded. For October, UN reporting summarized observer follow-up, including witness accounts and physical damage; the original field report should be checked for precise village and incident details.
+- **Occupied Palestinian territory:** Contemporary JTA dispatches reported Israeli police arrests of schoolchildren in East Jerusalem, a curfew/sealing of parts of Nablus during protests, and the deportation of Nablus teacher Kassem Muhammed Hijjawi to Jordan. A UN human-rights working group recorded witness allegations that 25 girls were beaten in Nablus and Jerusalem prisons in March. Those allegations remain attributed testimony, not a judicial finding.
+- **Settlement and territorial control:** A later Security Council commission inventory dates the French Hill settlement to 1969 and describes the site as Arab land and land from a Catholic convent. The inventory's housing-unit and population figures are later snapshots, not 1969 figures.
+- **Displacement:** No separate, independently supported annual count of Palestinians newly displaced in 1969 was identified in this initial scan. UNRWA's 1968–69 report says about 75,000 people had left Jordan Valley camps in February–March 1968 and remained in temporary camps; this is a 1968 displacement legacy, not a 1969 count.
+- **Americans and U.S. forces:** No American civilian or U.S. service member killed by an Israeli action was verified in the sources reviewed for 1969. This is a finding about the sources reviewed, not proof that no such case exists.
 
 ## Next research tranche
 
-Continue with 1969, prioritizing U.S. citizens and forces, Israeli military/settler attacks, Palestinian deaths and displacement, detention, land measures, settlements and Israeli actions in Lebanon. Keep actions by other actors outside the incident dataset and preserve disputed claims with denials.
+Continue with 1970, prioritizing U.S. citizens and forces, Israeli military/settler attacks, Palestinian deaths and displacement, detention, land measures, settlements and Israeli actions in Lebanon. Keep actions by other actors outside the incident dataset and preserve disputed claims with denials.
