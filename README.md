@@ -18,6 +18,8 @@ The Irgun (Etzel; Hebrew acronym for the National Military Organization) was a p
 - [Structured incident register](data/incidents.csv): normalized, machine-readable incident rows.
 - [Sources and method](docs/SOURCES_AND_METHOD.md): inclusion rules, evidence grades, source capture and correction protocol.
 - [Research queue](docs/RESEARCH_QUEUE.md): unresolved tasks and next verification steps.
+- [Year-by-year West Bank review](docs/YEAR_BY_YEAR_REVIEW.md): casualties, settler attacks, displacement and selected settlement-expansion indicators, 2005–2025.
+- [Annual West Bank indicator data](data/west_bank_annual_indicators.csv): source-linked annual OCHA series with attribution and comparability notes.
 
 ## Evidence rules
 
@@ -27,4 +29,4 @@ No bulk scraping or automated harvesting is authorized by this scaffold. “Comp
 
 ## Current state
 
-Initial scaffold and literature matrix are being committed to the repository on a dedicated research branch. The opening entry records the King David Hotel bombing as a historical case and separates that pre-state event from later Israeli state conduct. All listed incidents are leads until primary evidence, attribution, citizenship, and scope have been reviewed case by case.
+The scaffold, King David Hotel opening case, and annual West Bank review are committed to a dedicated research branch. The annual panel covers 2005–2025 and uses OCHA’s February 2026 snapshot vintage; settlement expansion indicators are included for 2023–2025 with source-specific definitions. Gaza and Lebanon remain separate research tracks. All incident leads require primary evidence, attribution, citizenship, and scope review case by case.
