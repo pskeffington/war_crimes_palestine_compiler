@@ -127,7 +127,7 @@ UNTSO and the Mixed Armistice Commission recorded Israeli military attacks acros
 
 ### Bureij refugee-camp raid (28–29 August)
 
-UNRWA's acting director reported 20 refugees killed, 27 seriously wounded and 35 less seriously injured during an armed raid on Bureij. The report said more than 1,800 refugees fled to other camps after the attack. UNTSO reported that the Mixed Armistice Commission majority attributed the raid to armed Israelis; it described a reprisal motive as likely, not established. Treat the 1,800-plus as temporary flight after the attack, not a permanent displacement or an annual net total. [UNTSO record, Security Council meeting 630](https://digitallibrary.un.org/record/631616/files/S_PV-630-EN.pdf); [UNRWA report preserved in UN document S/3186](https://digitallibrary.un.org/record/602634/files/S_3186-EN.pdf).
+UNRWA's acting director reported 20 refugees killed, 27 seriously wounded and 35 less serious casualties during an armed raid on Bureij. The report said more than 1,800 refugees fled to other camps after the attack. UNTSO reported that the Mixed Armistice Commission majority attributed the raid to armed Israelis; it described a reprisal motive as likely, not established. Treat the 1,800-plus as temporary flight after the attack, not a permanent displacement or an annual net total. [UNTSO record, Security Council meeting 630](https://digitallibrary.un.org/record/631616/files/S_PV-630-EN.pdf); [UNRWA report preserved in UN document S/3186](https://digitallibrary.un.org/record/602634/files/S_3186-EN.pdf).
 
 ### Qibya raid (14–15 October)
 
