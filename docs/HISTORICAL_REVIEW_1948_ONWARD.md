@@ -119,6 +119,22 @@ Later archival studies report that Israeli soldiers shot civilians gathering nea
 
 No accessible non-Israeli contemporary newspaper report was located in this tranche. The UN armistice report is the strongest contemporaneous source for the first three cases. The only defensible 1952 displacement figure found so far is approximately 800 people affected by the Es Sani forced-transfer episode; it is not a total of people permanently displaced that year.
 
+## 1953 initial scan
+
+### Falameh and Rantis attacks (22/23 and 28–29 January)
+
+UNTSO and the Mixed Armistice Commission recorded Israeli military attacks across the demarcation line at Falameh and Rantis. The UK Foreign Secretary told Parliament that the Commission majority held Israel responsible for armistice breaches. With casualty information still incomplete, he reported at least three Arabs killed and 10 or 12 wounded; the questioner's claim of at least ten deaths was not confirmed in the minister's answer. Keep that provisional count distinct from more detailed village-level totals pending review of the underlying MAC investigation files. [UN Security Council meeting 630](https://digitallibrary.un.org/record/631616/files/S_PV-630-EN.pdf); [UK Hansard, 9 February 1953](https://hansard.parliament.uk/Commons/1953-02-09/debates/dc9614af-5cfd-42f3-9e49-8b2d9b95e0de/JordanianVillages(IsraeliAttack)).
+
+### Bureij refugee-camp raid (28–29 August)
+
+UNRWA's acting director reported 20 refugees killed, 27 seriously wounded and 35 less seriously injured during an armed raid on Bureij. The report said more than 1,800 refugees fled to other camps after the attack. UNTSO reported that the Mixed Armistice Commission majority attributed the raid to armed Israelis; it described a reprisal motive as likely, not established. Treat the 1,800-plus as temporary flight after the attack, not a permanent displacement or an annual net total. [UNTSO record, Security Council meeting 630](https://digitallibrary.un.org/record/631616/files/S_PV-630-EN.pdf); [UNRWA report preserved in UN document S/3186](https://digitallibrary.un.org/record/602634/files/S_3186-EN.pdf).
+
+### Qibya raid (14–15 October)
+
+UNTSO reported that roughly half a battalion of Israel's regular army crossed into Qibya; part of the force entered Shuqba, while supporting forces shelled Budrus. The UNTSO investigation recorded 42 killed, 15 wounded, and 41 houses plus a school destroyed at Qibya. Jordan's 16 October letter reported 42 bodies recovered and additional possible victims beneath wreckage. On 24 November, Security Council Resolution 101 found the Qibya retaliatory action violated the cease-fire and was inconsistent with the Armistice Agreement and Charter obligations. The resolution is an institutional finding, not a criminal judgment. The UNTSO report did not identify who committed the alleged attack in Israel that preceded the raid. No defensible displaced-person total appears in the reviewed records. [UNTSO report to the Security Council](https://digitallibrary.un.org/record/631616/files/S_PV-630-EN.pdf); [Security Council Resolution 101](https://digitallibrary.un.org/record/280556?ln=en).
+
+This is an initial scan, not an exhaustive annual record. Contemporary non-Israeli newspaper archives and additional incident-level records remain to be checked; the UK Hansard record is a contemporaneous parliamentary source, not a newspaper.
+
 ## Year-by-year coverage ledger
 
 | Year(s) | Status |
@@ -127,7 +143,7 @@ No accessible non-Israeli contemporary newspaper report was located in this tran
 | 1949 | Initial scan recorded; original ICRC reports, displacement totals, and additional press cases remain to verify. |
 | 1950 | Initial scan recorded for El Auja and Majdal; broader annual displacement total and other incidents remain unverified. |
 | 1951 | Initial scan records Wadi Ara displacement, UN-listed border-village allegations, and the Idna armistice finding; original press and victim totals remain to verify. |
-| 1952 | Initial scan adds Beit Jala, Qaffin, Es Sani, and Wadi Ara/Kafr Ara; press, attribution and annual displacement checks remain open. |
+| 1952 | Initial scan adds seven event records/leads, including Gaza attacks and killings, Qaffin, Es Sani and Wadi Ara/Kafr Ara; press, attribution and annual displacement checks remain open. |
 | 1953–2004 | Incident-level non-Israeli press and international-record scan pending. |
 | 2005–2025 | OCHA West Bank annual indicators available; not a substitute for incident-level historical news scanning. |
 | 2026 | Partial-year scan pending; keep reporting cutoff explicit. |
