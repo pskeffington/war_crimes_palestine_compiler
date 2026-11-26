@@ -387,3 +387,43 @@ This initial scan found no documented 1966 Israeli action in Lebanon and no Amer
 ## Next research tranche
 
 Continue with 1967, separating the pre-war and post-war periods and tracking the occupation of the West Bank, East Jerusalem, Gaza, Sinai and the Golan Heights; record U.S. citizens and U.S. forces as a priority, include Lebanon where documented, and preserve annual displacement flows only where sources support a count.
+
+## 1967 initial scan
+
+### Israeli attacks on UNEF and USS Liberty
+
+On 5 June the UN Secretary-General reported Israeli aircraft strafed a white-marked UNEF convoy near Khan Yunis, killing three Indian soldiers and wounding an unknown number. On 8 June Israeli aircraft and torpedo boats attacked USS Liberty in international waters. U.S. sources report 34 killed and 170 or 171 wounded. A contemporaneous U.S. review found gross Israeli command failures and gross negligence for which Israel should be responsible, but no available evidence of a premeditated high-command attack on a ship known to be American; it assessed the attackers apparently believed the target was Egyptian. [UN report](https://digitallibrary.un.org/record/524031/files/S_7930_Add-1-EN.pdf); [FRUS doc. 373](https://history.state.gov/historicaldocuments/frus1964-68v19/d373); [NHHC](https://www.history.navy.mil/content/history/nhhc/browse-by-topic/wars-conflicts-and-operations/middle-east/six-day-war-liberty.html)
+
+### West Bank displacement and local destructions
+
+UNRWA estimated about 200,000 crossed from the West Bank to the East Bank in June–August, including at least 100,000 registered refugees. Refugees interviewed by the UN Special Representative described pressure; the report identified fear, hostilities and occupation as major causes, while distinguishing broad flight from specific expulsions. This overlapping estimate is not a verified count of individual deportations.
+
+At Imwas, Yalu and Beit Nuba in the Latrun area, the Special Representative said residents were ordered out under threat, villages destroyed and return blocked. Israel's Defence Minister told him he ordered demolition for strategic/security reasons. Estimates differed: 4,000 from Israeli information and 10,000 from refugees; at least 4,000 were not allowed to return.
+
+In Qalqiliya, most residents fled before/during combat; the remaining population was advised to leave and returned after about three weeks. The mayor reported 850 of 2,000 homes demolished. Israel's military governor cited combat, safety and sanitary reasons. Actual displacement and return counts remain unknown. [UNRWA A/6713](https://digitallibrary.un.org/nanna/record/720304/files/A_6713-EN.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0); [Special Representative A/6797-S/8158](https://digitallibrary.un.org/record/604841/files/S_SUPP_1967_4--%5EOR_SC_1967_4%5E-EN.pdf)
+
+### Gaza removal and POW detention allegations
+
+UNRWA reported 3,000–4,000 registered refugees were forced to leave Gaza because authorities believed they were PLA members. The Special Representative separately recorded an unverified claim that about 3,000 were rounded up and taken outside Gaza; he could not confirm the number or detention/release outcomes.
+
+Jordan alleged torture and poor conditions for captured Jordanian POWs, saying 36 repatriated soldiers had untreated wounds or injuries attributed to torture. Israel denied the allegations, described care and ICRC access, and reported 41 wounded Jordanians repatriated. No independent torture count is established. [UNRWA A/6713](https://digitallibrary.un.org/nanna/record/720304/files/A_6713-EN.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0); [UN POW record](https://digitallibrary.un.org/record/604840/files/S_SUPP_1967_3--%5EOR_SC_1967_3%5E-EN.pdf)
+
+### Jerusalem demolition and expansion; Kfar Etzion resettlement
+
+Jordan reported Israeli authorities demolished 135 homes and two mosques in the Maghrabi Quarter and removed about 650 people, reportedly after three hours' notice. Counts remain attributed to the Jordanian submission. Israel extended its law, jurisdiction and municipal boundaries in East Jerusalem; General Assembly Resolution 2253 called for rescinding measures changing the city's status.
+
+JTA reported Israeli military reoccupation and resettlement of Kfar Etzion in late September. Israeli officials described settlers as pioneering youth groups linked to the army; a later UN inventory lists the settlement as founded in September 1967 and the first postwar West Bank settlement. No displacement count is established. [UN Security Council record](https://www.un.org/unispal/document/auto-insert-186924/); [UNGA Resolution 2253](https://www.un.org/unispal/document/auto-insert-187842/); [JTA](https://www.jta.org/archive/no-decision-taken-on-west-bank-settlement-israel-tells-united-states); [UN inventory](https://digitallibrary.un.org/record/44462/files/S_SUPP_1980_4--%5EOR_SC_1980_IV%5E-EN.pdf)
+
+### Disputed Nuwaseirat removal and Arab leaders' deportation
+
+Jordan alleged 294 Nuwaseirat tribe members were expelled across the Jordan on 5–6 December. Israel denied forced expulsion, citing security restrictions and voluntary crossing; no independent investigation resolving the dispute was found. The UN Yearbook records Jordan's claim that two Arab leaders were deported for refusing cooperation and Israel's security/welfare rationale. Names and process need review. [Jordan complaint](https://digitallibrary.un.org/record/519488/files/A_6956--S_8290-EN.pdf); [Israel reply](https://digitallibrary.un.org/nanna/record/519812/files/A_6980--S_8295-EN.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0); [1967 UN Yearbook](https://digitallibrary.un.org/record/860183/files/1122896-EN.pdf)
+
+### Annual displacement count and open coverage
+
+The broadest supported measure is about 200,000 West Bank-to-East Bank crossings. It includes registered refugees and others, overlaps local records, and is not a verified count of direct expulsions. Local Gaza, Latrun, Qalqiliya, Jerusalem and Nuwaseirat figures must not be added again.
+
+This is an initial scan. No independently verified Israeli attack in Lebanon in 1967 was found; this is a search result, not proof of absence. Broader combat casualty reconstruction, individual detention/interrogation files, additional contemporary non-Israeli press and attacks on UNEF positions remain open.
+
+## Next research tranche
+
+Continue with 1968, prioritizing U.S. citizens and forces, Israeli military/settler attacks, Palestinian deaths and displacement, detention, land measures, settlements and Israeli actions in Lebanon. Keep actions by other actors outside the incident dataset and preserve disputed claims with denials.
