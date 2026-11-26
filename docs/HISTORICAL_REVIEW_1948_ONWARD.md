@@ -324,6 +324,22 @@ Akevot's archival article summarizes an Arabic-language press report that the Is
 
 This scan found no verified U.S. citizen or U.S. forces victim lead and no Israeli action in Lebanon for 1963; these are search results, not proof of absence. The total number displaced in 1963 remains unknown. The archival Carmiel land-confiscation item is a further expansionism lead, but its date and displacement count remain unverified.
 
+## 1964 initial scan
+
+### Reported firing at Arab farmers and Syrian posts (2–6 July)
+
+In a letter to the Security Council, Syria alleged that Israeli forces fired automatic weapons at Arab farmers to prevent ploughing on 2 July and fired intermittently at Syrian posts through 6 July. It also described an Israeli armored-car attack on a Syrian frontier post in the Dardara sector. This is a contemporaneous party complaint, not an independent UN finding; the reviewed record supplies no casualty count. [Syrian letter S/5805](https://digitallibrary.un.org/record/608963/files/S_5805-EN.pdf)
+
+### Negev Bedouin building-site and relocation planning (April)
+
+A historical study citing archival committee records says an Israeli interministerial committee was created on 19 April to prepare a proposal about building sites for Negev Bedouin. This is relevant state planning and land-policy context, but it does not establish that people were moved in 1964. The annual displacement count therefore remains unknown. [Indiana University Press, *The Tribal Challenge*](https://publish.iupress.indiana.edu/read/the-tribal-challenge-alliances-and-confrontations-in-the-israeli-negev/section/7feeacd4-9719-4505-920d-4e659fa2688d)
+
+### Tel El-Qadi and Israeli air/tank attacks (13 November)
+
+UNTSO observers logged heavy exchanges after a Syrian warning shot was fired at an Israeli patrol. The report says this initial Syrian fire followed an Israeli armored personnel carrier entering about 50 metres into Syrian territory, within a disputed boundary area where Israel was reconstructing a track and drainage ditch. Israeli aircraft then bombed and machine-gunned Syrian positions, and Israeli tanks shelled Tel Azaziat. Observers recorded damage in Nukheila and Abbasieh and bomb evidence near Massada, but could not inspect every reported strike location. The Syrian liaison officer reported seven dead and 26 injured, most civilians; the report also records Israeli military and kibbutz casualties. The Security Council's draft resolution deplored renewed military action and regretted losses on both sides, but was not adopted. [UNTSO report S/6061](https://digitallibrary.un.org/record/539917/files/S_6061-EN.pdf); [Security Council debate and vote](https://www.un.org/unispal/document/auto-insert-180865/)
+
+This scan found no verified U.S. citizen or U.S. forces victim lead and no Israeli action in Lebanon for 1964; these are search results, not proof of absence. The total number displaced in 1964 remains unknown.
+
 ## Next research tranche
 
-Continue with 1964, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
+Continue with 1965, preserving the distinction between Palestinian citizens inside Israel, refugees displaced beyond Israeli control, military occupation/administration, individual detention cases, and events attributed to non-state actors. Search non-Israeli press archives alongside UN/ICRC records, then cross-check each event against the actor-only inclusion rule before adding it to the primary register.
